@@ -1,9 +1,12 @@
-# simple-react-setup
+# Test
+this is a test 	
 
-A super simple react setup from scratch with all the basics that you might need.
 
-## How to use
+## Usage
 
-Simply download or clone the repo and use **npm install**
-To run the app use the command **npm start**
+Ya just test with it
+
+
 # web-site
+this is where the site should be
+
